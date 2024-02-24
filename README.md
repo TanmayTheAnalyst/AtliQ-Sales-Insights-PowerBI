@@ -7,7 +7,7 @@ So as a data analyst my aim was to unlock insights that are not visible to sales
 
 ## AIMS Grid
 Understanding Stakeholders who are involved is also a crucial step. In our case Stakeholders were Sales Director, Marketing Team, Customer Service Team, Data Analytics Team, IT Dept.
-
+![AIMS](https://github.com/TanmayTheAnalyst/AtliQ-Sales-Insights-PowerBI/assets/153390240/e5b0a8c7-f7a3-4df9-9178-5c0d80ffd895)
 
 ## Learnings
 - Performed a High level analysis of data in SQL to get better understanding over the data.
@@ -17,7 +17,6 @@ Understanding Stakeholders who are involved is also a crucial step. In our case 
 - Created measure for needs and used them for creating visuals in PowerBi.
 - After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
-
--  
-
-
+## Final Dashboard
+![Sales Insights-1](https://github.com/TanmayTheAnalyst/AtliQ-Sales-Insights-PowerBI/assets/153390240/b6a164c4-b246-408f-b8f4-3c464d1a8c77)
+![Sales Insights-2](https://github.com/TanmayTheAnalyst/AtliQ-Sales-Insights-PowerBI/assets/153390240/0a21a9b4-c0ba-4c5c-be22-75a42af91fff)
