@@ -17,6 +17,11 @@ Understanding Stakeholders who are involved is also a crucial step. In our case 
 - Created measure for needs and used them for creating visuals in PowerBi.
 - After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
+## Conclusion 
+- I was able to create an automated dashboard providing quick and latest sales insights in order to support senior management in taking data driven decisions.
+- Dashboard uncovers insights with the latest data avaliable thus helping sales team to take better decisions and prove 10 % cost savings of total spend.
+- Sales analyst stopped data gathering manually in order to save 20% of their business time and reinvest its value added activity.
+
 ## Final Dashboard
 ![Sales Insights-1](https://github.com/TanmayTheAnalyst/AtliQ-Sales-Insights-PowerBI/assets/153390240/b6a164c4-b246-408f-b8f4-3c464d1a8c77)
 ![Sales Insights-2](https://github.com/TanmayTheAnalyst/AtliQ-Sales-Insights-PowerBI/assets/153390240/0a21a9b4-c0ba-4c5c-be22-75a42af91fff)
